@@ -58,7 +58,6 @@
     <string name="theme_title_anthony">@string/theme_name_anthony</string>
     <string name="theme_title_johanna">@string/theme_name_johanna</string>
     <string name="theme_title_reiko">@string/theme_name_reiko</string>
-    <string name="theme_wallpaper_anthony">com.breel.wallpapers19/com.breel.wallpapers19.doodle.wallpaper.variations.DoodleWallpaperV1</string>
     <string name="theme_wallpaper_johanna">com.breel.wallpapers19/com.breel.wallpapers19.doodle.wallpaper.variations.DoodleWallpaperV1</string>
     <string name="theme_wallpaper_options_anthony">com.breel.wallpapers19.comm.NotificationsReceiver;com.breel.wallpapers19.nineteen.alive.doodle.settings;extra_setting=theme_id:3</string>
     <string name="theme_wallpaper_options_johanna">com.breel.wallpapers19.comm.NotificationsReceiver;com.breel.wallpapers19.nineteen.alive.doodle.settings;extra_setting=theme_id:1</string>

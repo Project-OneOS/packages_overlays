@@ -7,7 +7,6 @@
     <item type="drawable" name="theme_wallpaper_test2">@drawable/generic_wall</item>
     <item type="drawable" name="theme_wallpaper_thumbnail_test2">@drawable/generic_wall_thumb</item>
     <drawable name="theme_wallpaper_thumbnail_anthony">@drawable/Wallpaper_Thumb_Ash</drawable>
-    <drawable name="theme_wallpaper_thumbnail_default">@drawable/Wallpaper_Thumb_Default_layers</drawable>
     <drawable name="theme_wallpaper_thumbnail_johanna">@drawable/Wallpaper_Thumb_Collage</drawable>
     <drawable name="theme_wallpaper_thumbnail_reiko">@drawable/Wallpaper_Thumb_Crayon</drawable>
 </resources>
