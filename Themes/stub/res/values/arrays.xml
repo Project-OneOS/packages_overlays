@@ -2,5 +2,8 @@
 <resources>
     <string-array name="themes">
         <item>default</item>
+	<item>reiko</item>
+        <item>johanna</item>
+        <item>anthony</item>
     </string-array>
 </resources>
